@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sruthiarrolla/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,10 +37,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sruthiarrolla/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sruthiarrolla/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sruthiarrolla/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
