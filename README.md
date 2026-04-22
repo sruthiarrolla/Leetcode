@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/sruthiarrolla/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0054-spiral-matrix](https://github.com/sruthiarrolla/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,5 +79,10 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sruthiarrolla/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sruthiarrolla/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
