@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/sruthiarrolla/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sruthiarrolla/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
