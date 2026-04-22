@@ -26,6 +26,7 @@
 | [0002-add-two-numbers](https://github.com/sruthiarrolla/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/sruthiarrolla/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sruthiarrolla/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sruthiarrolla/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sruthiarrolla/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -69,4 +71,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
