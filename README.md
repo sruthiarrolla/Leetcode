@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/sruthiarrolla/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0856-score-of-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sruthiarrolla/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -116,4 +118,8 @@
 | [0175-combine-two-tables](https://github.com/sruthiarrolla/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sruthiarrolla/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/sruthiarrolla/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
