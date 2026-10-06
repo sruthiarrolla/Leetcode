@@ -52,6 +52,7 @@
 | [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0856-score-of-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sruthiarrolla/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -122,4 +124,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
