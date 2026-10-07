@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/sruthiarrolla/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Sliding Window
@@ -108,6 +109,7 @@
 | [0039-combination-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sruthiarrolla/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/sruthiarrolla/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
