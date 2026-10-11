@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/sruthiarrolla/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/sruthiarrolla/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/sruthiarrolla/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
