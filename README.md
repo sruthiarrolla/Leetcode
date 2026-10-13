@@ -16,6 +16,7 @@
 | [0051-n-queens](https://github.com/sruthiarrolla/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/sruthiarrolla/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sruthiarrolla/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sruthiarrolla/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sruthiarrolla/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sruthiarrolla/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sruthiarrolla/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
