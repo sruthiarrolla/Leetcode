@@ -51,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/sruthiarrolla/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sruthiarrolla/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/sruthiarrolla/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sruthiarrolla/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sruthiarrolla/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
@@ -72,6 +73,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sruthiarrolla/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sruthiarrolla/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sruthiarrolla/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/sruthiarrolla/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sruthiarrolla/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
