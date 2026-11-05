@@ -18,6 +18,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sruthiarrolla/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sruthiarrolla/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sruthiarrolla/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sruthiarrolla/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -102,6 +103,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sruthiarrolla/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sruthiarrolla/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sruthiarrolla/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sruthiarrolla/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -134,6 +137,7 @@
 | [0015-3sum](https://github.com/sruthiarrolla/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sruthiarrolla/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sruthiarrolla/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sruthiarrolla/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sruthiarrolla/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
