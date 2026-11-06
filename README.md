@@ -21,6 +21,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sruthiarrolla/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sruthiarrolla/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sruthiarrolla/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sruthiarrolla/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -43,6 +44,7 @@
 | [0037-sudoku-solver](https://github.com/sruthiarrolla/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/sruthiarrolla/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sruthiarrolla/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sruthiarrolla/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sruthiarrolla/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sruthiarrolla/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sruthiarrolla/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -139,6 +142,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sruthiarrolla/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sruthiarrolla/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sruthiarrolla/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sruthiarrolla/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
