@@ -20,6 +20,7 @@
 | [1254-number-of-closed-islands](https://github.com/sruthiarrolla/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sruthiarrolla/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sruthiarrolla/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -270,6 +271,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sruthiarrolla/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sruthiarrolla/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
