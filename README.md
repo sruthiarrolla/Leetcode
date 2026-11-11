@@ -74,6 +74,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sruthiarrolla/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sruthiarrolla/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sruthiarrolla/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sruthiarrolla/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/sruthiarrolla/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -210,6 +211,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sruthiarrolla/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sruthiarrolla/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sruthiarrolla/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sruthiarrolla/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
