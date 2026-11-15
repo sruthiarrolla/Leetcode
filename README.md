@@ -20,6 +20,7 @@
 | [1254-number-of-closed-islands](https://github.com/sruthiarrolla/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/sruthiarrolla/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sruthiarrolla/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sruthiarrolla/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sruthiarrolla/Leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/sruthiarrolla/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -72,6 +73,7 @@
 | [0067-add-binary](https://github.com/sruthiarrolla/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sruthiarrolla/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sruthiarrolla/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sruthiarrolla/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/sruthiarrolla/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sruthiarrolla/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -136,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sruthiarrolla/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sruthiarrolla/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sruthiarrolla/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/sruthiarrolla/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -320,5 +323,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sruthiarrolla/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sruthiarrolla/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
